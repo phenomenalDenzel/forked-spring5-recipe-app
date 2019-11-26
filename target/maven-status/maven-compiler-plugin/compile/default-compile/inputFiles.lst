@@ -1,0 +1,14 @@
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/model/Difficulty.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/repositories/CategoryRepository.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/model/UnitOfMeasure.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/Spring5RecipeAppApplication.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/bootstrap/RecipeBootstrap.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/controllers/IndexController.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/services/RecipeService.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/model/Notes.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/services/RecipeServiceImp.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/repositories/UnitOfMeasureRepository.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/model/Recipe.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/repositories/RecipeRepository.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/model/Ingredient.java
+/home/denzel/spring5/spring5-recipe-app/src/main/java/com/springframework/model/Category.java
